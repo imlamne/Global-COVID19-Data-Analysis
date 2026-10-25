@@ -1,0 +1,7 @@
+﻿Reporting_Date,Continent,Scoped_Locations,Missing_Cutoff_Locations,KPI_Eligible_Locations,Reported_Cases,Reported_Deaths,Population_Eligible_Locations,Deaths_Per_100K_Eligible_Population
+2021-04-30,Europe,51,4,45,44863451.0,1016750.0,45,135.3782
+2021-04-30,North America,31,5,21,37529270.0,847942.0,21,144.3211
+2021-04-30,South America,13,1,12,24878216.0,672415.0,12,156.2093
+2021-04-30,Asia,49,2,45,39525551.0,520286.0,45,11.3288
+2021-04-30,Africa,55,1,54,4557699.0,121784.0,54,9.0963
+2021-04-30,Oceania,11,2,5,43542.0,1046.0,5,2.5845
