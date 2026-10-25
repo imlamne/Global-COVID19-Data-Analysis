@@ -30,12 +30,13 @@ The dashboard separates monthly net changes, absolute deaths, and deaths per 100
 
 ## Project Files
 
-| Path | Contents |
+| File | Contents |
 |---|---|
-| `sql/dashboard_final_exports.sql` | SQL extracts and validation queries |
-| `data_outputs/` | Six validated dashboard datasets |
-| `dashboard/tableau_public_link.md` | Tableau dashboard link |
-| `docs/data_dictionary_and_limits.md` | Definitions, assumptions, and limitations |
+| [SQL Analysis & Validation](sql/dashboard_final_exports.sql) | SQL queries for data analysis, aggregation, and validation |
+| [Dashboard Datasets](data_outputs/) | Six validated datasets used in Tableau |
+| [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/lam.nguyen2038/viz/Global_COVID19_Executive_Dashboard/COVID-19ExecutiveDashboard) | Published executive dashboard |
+| [Data Dictionary & Limitations](docs/data_dictionary_and_limits.md) | Metric definitions, assumptions, and data limitations |
+| [Executive Presentation](presentation/Global_COVID19_Executive_Presentation.pptx) | Presentation of key findings and recommendations |
 
 The analysis uses historical Excel files from [Alex The Analyst's portfolio project](https://github.com/AlexTheAnalyst/PortfolioProjects), based on [Our World in Data](https://ourworldindata.org/coronavirus) records. Building on the tutorial, this version adds source reconciliation, explicit coverage checks, consistent metric definitions, and a dashboard organized around trends, geography, and reporting reliability.
 
